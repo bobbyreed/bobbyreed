@@ -9,9 +9,9 @@ I build bridges between what was and what could be—using code to make archives
 ## 🏛️ Projects That Tell Stories
 
 ### VirtualDeepDeuce
-*Problem:* Filing cabinets full of photographs and documents about Oklahoma City's historic jazz district were gathering dust. Fellow librarian Judith Matthews and I knew these archives held incredible stories—Charlie Christian inventing the electric guitar, Ralph Ellison finding his voice—but how do you make k-12 students care about old papers?
+*Problem:* Filing cabinets full of photographs and documents about Oklahoma City's historic jazz district were gathering dust. Fellow librarian Judith Matthews and I knew these archives held incredible stories, but how do you make k-12 students care about old papers?
 
-*Solution:* We built a VR experience that lets you walk the streets of 1920s Deep Deuce, hear the music spilling from the clubs, and experience the neighborhood that shaped American culture. 
+*Solution:* We built a VR experience that lets you walk the streets of 1950s OKC, hear the music spilling from the clubs, and experience the neighborhood that shaped American culture. 
 
 *Discovery:* Users will find purposes you never imagined within 5 seconds of launching any interactive app. One student used it to understand their great-grandmother's stories. Another traced gentrification patterns. The app became whatever each person needed it to be.
 
