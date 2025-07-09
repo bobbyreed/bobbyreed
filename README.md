@@ -1,68 +1,36 @@
-# So it goes — A Digital Workshop 
+# So it goes — A Digital Workshop
 
-I'm bobby reed, a computer science instructor at [Oklahoma City University](https://www.okcu.edu/faculty/bobby-reed-m-s) with 15 years of experience wrangling technology for educational and cultural purposes. My work lives at the intersection of **emerging technologies**, **historical preservation**, and **educational innovation**.
+I'm bobby reed, a computer science instructor at [Oklahoma City University](https://www.okcu.edu/faculty/bobby-reed-m-s) who believes technology should enable humans to do things they didn't think they could.
 
-## 🎯 Current Focus
+## 🎯 What I Do
 
-- **Augmenting university research** with emerging technologies
-- **Building spatial applications** for preservation and research purposes
-- Making **old things new again** through the magic of code
+I build bridges between what was and what could be—using code to make archives breathe, history dance, and education more equitable. Whether I'm recreating 1920s jazz clubs in VR or ensuring every student gets called on fairly, my work lives at one intersection: **making the invisible visible through technology**.
 
-## 🏛️ Featured Projects
+## 🏛️ Projects That Tell Stories
 
-### Virtual Heritage Experiences
+### VirtualDeepDeuce
+*Problem:* Filing cabinets full of photographs and documents about Oklahoma City's historic jazz district were gathering dust. Fellow librarian Judith Matthews and I knew these archives held incredible stories—Charlie Christian inventing the electric guitar, Ralph Ellison finding his voice—but how do you make k-12 students care about old papers?
 
-#### 🎷 [VirtualDeepDeuce](https://github.com/yourusername/VirtualDeepDeuce)
-A VR experience commissioned by the Metropolitan Library System that recreates Oklahoma City's historic Deep Deuce district—the heart of the city's African American community and jazz scene in the 1920s and '30s. Where legends like Jimmy Rushing and Charlie Christian made their names, and where Ralph Ellison grew up before writing "Invisible Man."
+*Solution:* We built a VR experience that lets you walk the streets of 1920s Deep Deuce, hear the music spilling from the clubs, and experience the neighborhood that shaped American culture. 
 
-#### 🎪 [virtual-fairgrounds-web](https://github.com/yourusername/virtual-fairgrounds-web)
-Step into 1950s Oklahoma City through your browser. This JavaScript-powered recreation of the Fairgrounds Neighborhood democratizes historical preservation—no expensive VR equipment required, just curiosity and an internet connection.
+*Discovery:* Users will find purposes you never imagined within 5 seconds of launching any interactive app. One student used it to understand their great-grandmother's stories. Another traced gentrification patterns. The app became whatever each person needed it to be.
 
-### Educational Tools
+### three-js-gh-pages-template
+*Why it matters:* As my brilliant cousin Dr. Amber Bozer said in her Last Lecture at Tarleton: "Build for others and multiply your impact." This template removes hours of configuration headaches so creators can focus on the interesting problems. Every project built with it extends my reach—I'm teaching even when I'm sleeping.
 
-#### 📚 [student-picker](https://github.com/yourusername/student-picker)
-A Godot-built application that transforms classroom management and assessment into something more systematic and fair. Because even in education, randomness serves a purpose—it keeps everyone honest and attentive.
+## 📚 The Thread That Connects
 
-#### 🎨 [three-js-gh-pages-template](https://github.com/yourusername/three-js-gh-pages-template)
-The scaffolding that makes 3D web projects possible without the usual setup headaches. Save hours of configuration, spend time on the interesting problems instead.
+**Metropolitan Library System** → Managed events and training, discovered how technology could democratize access to knowledge
 
-## 📊 Professional Journey
+**University of Oklahoma** → Led emerging tech initiatives, learned that the best tools disappear into the experience
 
-| Institution | Role | Impact |
-|------------|------|--------|
-| **Oklahoma City University** | Computer Science Instructor | Teaching software development, researching spatial applications |
-| **Drone's Eye View** | Owner/Developer | Digital Creation without Bounds |
-| **University of Oklahoma** | Head of Emerging Technologies | Augmenting the Research and Instruction Lifecycle through Integrating Emerging Technologies |
-| **Metropolitan Library System** | Events Coordinator ('16-'17) & Learning and Development Specialist ('18) | Managed Events for 6 Library Branches & Managed the LMS and training coordination (including travel) for 500 employees |
-| **Farmers Insurance** | Technology Specialist | Enterprise systems development |
-| **Mid-Del Schools** | English Teacher / ELL Instructor / Basketball Coach | Full-time teacher, district-wide ELL, 7th Grade Girl's Basketball |
+**Oklahoma City University** → Teaching the next generation to build bridges of their own
 
-## 🌐 Connect & Collaborate
+## 🌐 Let's Build Something
 
-- 🏫 [Academic Profile](https://www.okcu.edu/faculty/bobby-reed-m-s)
 - 🌍 [Personal Website](https://abobbyreed.com/)
-
-## 📚 Teaching Philosophy
-
-The most interesting problems exist not in the latest frameworks or programming languages, but in the **spaces between disciplines**—where history meets code, where libraries meet virtual reality, and where teaching meets technology.
-
-## 🎯 Current Research Interests
-
-- **Spatial computing** for cultural preservation
-- **Immersive educational experiences** using VR/AR
-- **Accessible technology** for public institutions
-- **Digital humanities** applications
+- 🏫 [Academic Profile](https://www.okcu.edu/faculty/bobby-reed-m-s)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobbyreed&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/e0806295-d28b-411b-80c1-1631e03348c5/thumbnail" alt="Boot.dev Profile">
-</p>
-
----
-
-*"So it goes in the digital workshop of a human creature who likes working with things that eat electricity."*
+*"So it goes in the digital workshop of a bleeding-heart who likes working with things that eat electricity."*
