@@ -16,7 +16,7 @@ I build bridges between what was and what could be—using code to make archives
 *Discovery:* Users will find purposes you never imagined within 5 seconds of launching any interactive app. One student used it to understand their great-grandmother's stories. Another traced gentrification patterns. The app became whatever each person needed it to be.
 
 ### three-js-gh-pages-template
-*Why it matters:* As my brilliant cousin Dr. Amber Bozer said in her Last Lecture at Tarleton: "Build for others and multiply your impact." This template removes hours of configuration headaches so creators can focus on the interesting problems. Every project built with it extends my reach—I'm teaching even when I'm sleeping.
+*Why it matters:* As my brilliant colleague [Dr. Amber Bozer said in her Last Lecture at Tarleton](https://www.tarleton.edu/news/tarleton-states-dr-amber-harris-bozer-to-present-last-lecture/): "Build for others and multiply your impact." This template removes hours of configuration headaches so creators can focus on the interesting problems. Every project built with it extends my reach—I'm teaching even when I'm sleeping.
 
 ## 📚 The Thread That Connects
 
