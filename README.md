@@ -4,7 +4,7 @@ I'm bobby reed, a computer science instructor at [Oklahoma City University](http
 
 ## 🎯 What I Do
 
-I build bridges between what was and what could be—using code to make archives breathe, history dance, and education more equitable. Whether I'm recreating 1920s jazz clubs in VR or ensuring every student gets called on fairly, my work lives at one intersection: **making the invisible visible through technology**.
+I build bridges between what was and what could be—using code to make archives breathe, history dance, and education more equitable. Whether I'm recreating neighborhoods from the past in VR or ensuring every student gets called on fairly, my work lives at one intersection: **furthering human capability through technology**.
 
 ## 🏛️ Projects That Tell Stories
 
