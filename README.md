@@ -6,7 +6,7 @@ I'm bobby reed, a computer science instructor at [Oklahoma City University](http
 
 I build bridges between what was and what could be—using code to make archives breathe, history dance, and education more equitable. Whether I'm recreating neighborhoods from the past in VR or ensuring every student gets called on fairly, my work lives at one intersection: **furthering human capability through technology**.
 
-## 🏛️ Projects That Tell Stories
+## Projects That Tell Stories
 
 ### Virtual Fairgrounds (VR App and Browser-Based Experience)
 *Problem:* Filing cabinets full of photographs and documents about Oklahoma City's historic fairgrounds neighborhood were gathering dust. Fellow librarian Judith Matthews and I knew these archives held incredible stories, but how do you make k-12 students care about old papers?
@@ -18,7 +18,7 @@ I build bridges between what was and what could be—using code to make archives
 ### three-js-gh-pages-template
 *Why it matters:* As my brilliant colleague [Dr. Amber Bozer said in her Last Lecture at Tarleton](https://www.tarleton.edu/news/tarleton-states-dr-amber-harris-bozer-to-present-last-lecture/): "Build for others and multiply your impact." This template removes hours of configuration headaches so creators can focus on the interesting problems. Every project built with it extends my reach—I'm teaching even when I'm sleeping.
 
-## 📚 The Thread That Connects
+## The Thread That Connects
 
 **Metropolitan Library System** → Managed events and training, discovered how technology could democratize access to knowledge
 
@@ -26,7 +26,7 @@ I build bridges between what was and what could be—using code to make archives
 
 **Oklahoma City University** → Teaching the next generation to build bridges of their own
 
-## 🌐 Let's Build Something
+## Let's Build Something
 
 - 🌍 [Personal Website](https://abobbyreed.com/)
 - 🏫 [Academic Profile](https://www.okcu.edu/faculty/bobby-reed-m-s)
