@@ -2,13 +2,13 @@
 
 I'm bobby reed, a computer science instructor at [Oklahoma City University](https://www.okcu.edu/faculty/bobby-reed-m-s) who believes technology should enable humans to do things they didn't think they could.
 
-## 🎯 What I Do
+## What I Do
 
 I build bridges between what was and what could be—using code to make archives breathe, history dance, and education more equitable. Whether I'm recreating neighborhoods from the past in VR or ensuring every student gets called on fairly, my work lives at one intersection: **furthering human capability through technology**.
 
 ## 🏛️ Projects That Tell Stories
 
-### VirtualDeepDeuce
+### Virtual Fairgrounds (VR App and Browser-Based Experience)
 *Problem:* Filing cabinets full of photographs and documents about Oklahoma City's historic fairgrounds neighborhood were gathering dust. Fellow librarian Judith Matthews and I knew these archives held incredible stories, but how do you make k-12 students care about old papers?
 
 *Solution:* We built a VR experience that lets you walk the streets of 1950s OKC, hear the music spilling from the businesses, and experience the neighborhood that shaped American culture. 
